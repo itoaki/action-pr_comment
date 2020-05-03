@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="https://github.com/github-actions-up-and-running/pr-comment/actions"><img alt="GitHub Actions status" src="https://github.com/github-actions-up-and-running/pr-comment/workflows/build-test/badge.svg"></a>
-</p>
+![build-test](https://github.com/itoaki/action-pr_comment/workflows/build-test/badge.svg)
 
 # PR Comment Action
 
